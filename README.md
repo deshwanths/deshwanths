@@ -8,7 +8,7 @@ I'm Deshwanth! I'm a **Software Engineer**:iphone:, looking to solve **real-worl
 
 <!-- Your badges -->
 <!--[![Google Playstore](https://img.shields.io/badge/-Joy_Apps-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/developer?id=Joy+Apps+Developers+Team&hl=en_IN)-->
-[![Linkedin](https://img.shields.io/badge/-shad6w-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deshwanth-shetty)
+[![Linkedin](https://img.shields.io/badge/-Deshwanth-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deshwanth-shetty)
 <!--[![Behance](https://img.shields.io/badge/-joykishan_sharma-191919?style=flat&labelColor=191919&logo=behance&logoColor=white)](https://www.behance.net/shad6w)-->
 [![Gmail](https://img.shields.io/badge/-Deshwanth-c14438?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=deshwanthshetty12@gmail.com)
 <!--[![CodePen](https://img.shields.io/badge/-joykishan_sharma-black?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/joykishan_sharma/pens/public)
