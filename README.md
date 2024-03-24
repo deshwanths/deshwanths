@@ -31,9 +31,9 @@ I'm Deshwanth! I'm a **Software Engineer**:iphone:, looking to solve **real-worl
 ### 🌱 Challenges on board:
 I decided to focus myself on feeding more knowledge:books: to my brain. I set a couple of self-challenges in order to push myself more further.:running: 
 
-* Learn to code:man_technologist: 5-6 hours a day with no distraction ( One or two day off a week. ) 
-* Workout:weight_lifting_man: 5 days in a row and take a day break 
-* Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:
+* Learn to code :man_technologist:  5-6 hours a day with no distraction ( One or two day off a week. ) 
+* Workout :weight_lifting_man:  5 days in a row and take a day break 
+* Avoid spending too much time on Youtube Entertainment :skull_and_crossbones: 
 * Adapting the minimalism life style
 * 🔜
 
@@ -50,7 +50,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
  <!-- Android Development -->
  <code><a href = "https://kotlinlang.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="Kotlin"></a></code>
 <code><a href = "https://www.java.com/en/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></a></code>
- <code><img height="40" src="https://image.flaticon.com/icons/svg/2306/2306209.svg" alt="XML"></code>
+ <code><img height="40" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/xml-23-695381.png?f=webp&w=256" alt="XML"></code>
  <code><a href = "https://www.android.com/intl/en_in/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android"></a></code>
 <code><a href = "https://developer.android.com/studio"><img height="40" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt="Android Studio"></a></code>
 <br>
@@ -77,7 +77,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 <code><a href = "adobe.com/in/products/xd.html"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/768px-Adobe_XD_CC_icon.svg.png" alt="Adobe XD"></a></code>
 </p>
 
-<h4 align="center"> Thanks for Visiting!:innocent:</h4>
+<h4 align="center"> Thanks for Visiting! :innocent: </h4>
 
 <!-- Credit -->
 ### Credit to 
